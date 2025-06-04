@@ -1,0 +1,3 @@
+/Users/joseperez/Desktop/hola/cmake-build-debug/CMakeFiles/hola.dir
+/Users/joseperez/Desktop/hola/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joseperez/Desktop/hola/cmake-build-debug/CMakeFiles/rebuild_cache.dir

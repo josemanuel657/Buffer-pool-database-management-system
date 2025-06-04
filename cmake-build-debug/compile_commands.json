@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/joseperez/Desktop/hola/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fcolor-diagnostics -o CMakeFiles/hola.dir/main.cpp.o -c /Users/joseperez/Desktop/hola/main.cpp",
+  "file": "/Users/joseperez/Desktop/hola/main.cpp",
+  "output": "CMakeFiles/hola.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/joseperez/Desktop/hola/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fcolor-diagnostics -o CMakeFiles/hola.dir/BufferPool.cpp.o -c /Users/joseperez/Desktop/hola/BufferPool.cpp",
+  "file": "/Users/joseperez/Desktop/hola/BufferPool.cpp",
+  "output": "CMakeFiles/hola.dir/BufferPool.cpp.o"
+},
+{
+  "directory": "/Users/joseperez/Desktop/hola/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fcolor-diagnostics -o CMakeFiles/hola.dir/CommandParser.cpp.o -c /Users/joseperez/Desktop/hola/CommandParser.cpp",
+  "file": "/Users/joseperez/Desktop/hola/CommandParser.cpp",
+  "output": "CMakeFiles/hola.dir/CommandParser.cpp.o"
+},
+{
+  "directory": "/Users/joseperez/Desktop/hola/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fcolor-diagnostics -o CMakeFiles/hola.dir/Frame.cpp.o -c /Users/joseperez/Desktop/hola/Frame.cpp",
+  "file": "/Users/joseperez/Desktop/hola/Frame.cpp",
+  "output": "CMakeFiles/hola.dir/Frame.cpp.o"
+},
+{
+  "directory": "/Users/joseperez/Desktop/hola/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fcolor-diagnostics -o CMakeFiles/hola.dir/ResultDisplayer.cpp.o -c /Users/joseperez/Desktop/hola/ResultDisplayer.cpp",
+  "file": "/Users/joseperez/Desktop/hola/ResultDisplayer.cpp",
+  "output": "CMakeFiles/hola.dir/ResultDisplayer.cpp.o"
+}
+]
