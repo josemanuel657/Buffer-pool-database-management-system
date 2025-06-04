@@ -1,12 +1,4 @@
-# Database Management System Homework 1
-
-### Name: Jose Perez
-### Student ID: 418310837
-
-
-## Overview
-
-DISCLAIMER: "This README file was partially generated with AI"
+# Buffer Pool Database Management System 
 
 This project implements a small database management system (DBMS) that relies on a **buffer pool manager** to manage interactions between memory and disk for blocks of records. The system supports commands to retrieve, update, pin/unpin database blocks and exit the program.
 
