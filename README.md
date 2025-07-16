@@ -1,6 +1,6 @@
 # Buffer Pool Database Management System 
 
-This project implements a small database management system (DBMS) that relies on a **buffer pool manager** to manage interactions between memory and disk for blocks of records. The system supports commands to retrieve, update, pin/unpin database blocks and exit the program.
+This project implements a database management system (DBMS) that relies on a **buffer pool manager** to manage interactions between memory and disk for blocks of records. The system supports commands to retrieve, update, pin/unpin database blocks and exit the program.
 
 ### Key Features
 - **Buffer Pool Manager**: Optimized memory usage for blocks of data by storing frequently accessed blocks in memory.
